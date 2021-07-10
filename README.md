@@ -1,4 +1,4 @@
-# [HorseTherepyDatabase]()
+# [HorseTherepyDatabase](https://drive.google.com/file/d/1TSZ8iCIlbLVcg-WGZXJ7WMYD5sZXXffH/view?usp=sharing)
 Our horse therapy buiness is in Long Island and in business for 5 years. Horse therepy is a buiness that offers horse rides to youth with disabilities to improve their confidence, trust and empathy, social skills, and their emotional awereness. In our farm, the customers can choose which treatment they want to have and can have subscription options for regular customers. Usually, the customers are getting attached to the horses as part of the treatment so they can have their regular horse to ride and treat every time they come. The business is using excel spreadsheets and physical books to keep track of all the customers, treatments, appointments, horses, employees, and equipment in the farm. The goal with using a relational database in our business is to grow with more treatments to help more youths.
 
 
